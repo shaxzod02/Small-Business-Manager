@@ -1,4 +1,4 @@
-# Small Business Manager v1.0 
+# Small Business Manager 
 
 
 ## Purpose
